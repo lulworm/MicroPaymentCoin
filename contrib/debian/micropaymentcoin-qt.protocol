@@ -1,0 +1,11 @@
+[Protocol]
+exec=micropaymentcoin-qt '%u'
+protocol=micropaymentcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

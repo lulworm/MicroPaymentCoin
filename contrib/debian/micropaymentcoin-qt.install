@@ -1,0 +1,6 @@
+usr/local/bin/micropaymentcoin-qt usr/bin
+share/pixmaps/micropaymentcoin32.xpm usr/share/pixmaps
+share/pixmaps/micropaymentcoin16.xpm usr/share/pixmaps
+share/pixmaps/micropaymentcoin128.png usr/share/pixmaps
+debian/micropaymentcoin-qt.desktop usr/share/applications
+debian/micropaymentcoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=MicroPaymentCoin Core
+Comment=MicroPaymentCoin P2P Cryptocurrency
+Comment[fr]=MicroPaymentCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MicroPaymentCoin, eşten eşe kriptografik sanal para birimi
+Exec=micropaymentcoin-qt %u
+Terminal=false
+Type=Application
+Icon=micropaymentcoin128
+MimeType=x-scheme-handler/micropaymentcoin;
+Categories=Office;Finance;
+StartupWMClass=MicroPaymentCoin-qt

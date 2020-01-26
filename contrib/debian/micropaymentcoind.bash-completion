@@ -1,0 +1,2 @@
+contrib/micropaymentcoind.bash-completion	micropaymentcoind
+contrib/micropaymentcoin-cli.bash-completion micropaymentcoin-cli
